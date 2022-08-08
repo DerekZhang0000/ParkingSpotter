@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>s167.PNG</filename>
+	<path>/my-project-name/s167.PNG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>237</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Vacant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>31</ymin>
+			<xmax>157</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vacant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>157</ymin>
+			<xmax>157</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
