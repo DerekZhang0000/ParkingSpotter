@@ -28,7 +28,6 @@ def makePrediction(imagePath):
     print("There are {} spaces in the image.".format(spaces))
     print("{} are vacant and {} are occupied.".format(vacant, occupied))
     show_labeled_image(image, filteredBoxes, filteredLabels)
-    plt.show()
     print("Exited...")
 
 print("ParkingSpotter v1.0")
